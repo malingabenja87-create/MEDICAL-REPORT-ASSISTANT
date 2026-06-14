@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+pypdf>=4.0.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+pytesseract>=0.10.0
+pillow>=10.0.0
+reportlab>=4.0.0
